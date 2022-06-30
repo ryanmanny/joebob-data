@@ -1,0 +1,904 @@
+{
+  "monstervision": [
+    {
+      "date": "1996-06-28",
+      "note": "Introducing Joe Bob Briggs"
+    },
+    {
+      "date": "1996-07-05",
+      "note": null
+    },
+    {
+      "date": "1996-07-12",
+      "note": null
+    },
+    {
+      "date": "1996-07-19",
+      "note": null
+    },
+    {
+      "date": "1996-07-23",
+      "note": "Monster Movie Massive Begins (No host?)"
+    },
+    {
+      "date": "1996-07-26",
+      "note": null
+    },
+    {
+      "date": "1996-08-02",
+      "note": null
+    },
+    {
+      "date": "1996-08-09",
+      "note": null
+    },
+    {
+      "date": "1996-08-16",
+      "note": null
+    },
+    {
+      "date": "1996-08-23",
+      "note": null
+    },
+    {
+      "date": "1996-08-30",
+      "note": null
+    },
+    {
+      "date": "1996-09-06",
+      "note": null
+    },
+    {
+      "date": "1996-09-13",
+      "note": null
+    },
+    {
+      "date": "1996-09-20",
+      "note": null
+    },
+    {
+      "date": "1996-09-27",
+      "note": null
+    },
+    {
+      "date": "1996-10-04",
+      "note": null
+    },
+    {
+      "date": "1996-10-11",
+      "note": null
+    },
+    {
+      "date": "1996-10-18",
+      "note": null
+    },
+    {
+      "date": "1996-10-25",
+      "note": null
+    },
+    {
+      "date": "1996-10-31",
+      "note": null
+    },
+    {
+      "date": "1996-11-01",
+      "note": null
+    },
+    {
+      "date": "1996-11-08",
+      "note": null
+    },
+    {
+      "date": "1996-11-15",
+      "note": null
+    },
+    {
+      "date": "1996-11-22",
+      "note": null
+    },
+    {
+      "date": "1996-11-29",
+      "note": null
+    },
+    {
+      "date": "1996-12-06",
+      "note": null
+    },
+    {
+      "date": "1996-12-13",
+      "note": null
+    },
+    {
+      "date": "1996-12-20",
+      "note": null
+    },
+    {
+      "date": "1996-12-27",
+      "note": null
+    },
+    {
+      "date": "1997-01-03",
+      "note": null
+    },
+    {
+      "date": "1997-01-10",
+      "note": null
+    },
+    {
+      "date": "1997-01-17",
+      "note": null
+    },
+    {
+      "date": "1997-01-24",
+      "note": null
+    },
+    {
+      "date": "1997-01-26",
+      "note": "Super Bowl Sunday All-Day Event"
+    },
+    {
+      "date": "1997-01-31",
+      "note": null
+    },
+    {
+      "date": "1997-02-07",
+      "note": null
+    },
+    {
+      "date": "1997-02-14",
+      "note": null
+    },
+    {
+      "date": "1997-02-21",
+      "note": null
+    },
+    {
+      "date": "1997-02-28",
+      "note": null
+    },
+    {
+      "date": "1997-03-07",
+      "note": null
+    },
+    {
+      "date": "1997-03-14",
+      "note": null
+    },
+    {
+      "date": "1997-03-21",
+      "note": null
+    },
+    {
+      "date": "1997-03-28",
+      "note": null
+    },
+    {
+      "date": "1997-04-04",
+      "note": null
+    },
+    {
+      "date": "1997-04-11",
+      "note": null
+    },
+    {
+      "date": "1997-04-18",
+      "note": null
+    },
+    {
+      "date": "1997-04-25",
+      "note": null
+    },
+    {
+      "date": "1997-05-02",
+      "note": null
+    },
+    {
+      "date": "1997-05-09",
+      "note": null
+    },
+    {
+      "date": "1997-05-16",
+      "note": null
+    },
+    {
+      "date": "1997-05-23",
+      "note": null
+    },
+    {
+      "date": "1997-05-30",
+      "note": null
+    },
+    {
+      "date": "1997-06-07",
+      "note": "Transition to Saturday Nights"
+    },
+    {
+      "date": "1997-06-14",
+      "note": null
+    },
+    {
+      "date": "1997-06-21",
+      "note": null
+    },
+    {
+      "date": "1997-06-28",
+      "note": null
+    },
+    {
+      "date": "1997-07-05",
+      "note": null
+    },
+    {
+      "date": "1997-07-12",
+      "note": null
+    },
+    {
+      "date": "1997-07-19",
+      "note": null
+    },
+    {
+      "date": "1997-07-26",
+      "note": null
+    },
+    {
+      "date": "1997-08-02",
+      "note": null
+    },
+    {
+      "date": "1997-08-09",
+      "note": null
+    },
+    {
+      "date": "1997-08-16",
+      "note": "Preempted by TNT\u2019s 30 Hours of Elvis Marathon"
+    },
+    {
+      "date": "1997-08-23",
+      "note": null
+    },
+    {
+      "date": "1997-08-30",
+      "note": null
+    },
+    {
+      "date": "1997-09-06",
+      "note": null
+    },
+    {
+      "date": "1997-09-13",
+      "note": null
+    },
+    {
+      "date": "1997-09-20",
+      "note": null
+    },
+    {
+      "date": "1997-09-27",
+      "note": null
+    },
+    {
+      "date": "1997-10-04",
+      "note": null
+    },
+    {
+      "date": "1997-10-11",
+      "note": null
+    },
+    {
+      "date": "1997-10-18",
+      "note": null
+    },
+    {
+      "date": "1997-10-25",
+      "note": null
+    },
+    {
+      "date": "1997-11-01",
+      "note": null
+    },
+    {
+      "date": "1997-11-08",
+      "note": null
+    },
+    {
+      "date": "1997-11-15",
+      "note": null
+    },
+    {
+      "date": "1997-11-22",
+      "note": null
+    },
+    {
+      "date": "1997-11-29",
+      "note": null
+    },
+    {
+      "date": "1997-12-06",
+      "note": null
+    },
+    {
+      "date": "1997-12-13",
+      "note": null
+    },
+    {
+      "date": "1997-12-20",
+      "note": null
+    },
+    {
+      "date": "1997-12-27",
+      "note": null
+    },
+    {
+      "date": "1998-01-03",
+      "note": null
+    },
+    {
+      "date": "1998-01-10",
+      "note": null
+    },
+    {
+      "date": "1998-01-17",
+      "note": null
+    },
+    {
+      "date": "1998-01-24",
+      "note": null
+    },
+    {
+      "date": "1998-01-31",
+      "note": null
+    },
+    {
+      "date": "1998-02-07",
+      "note": null
+    },
+    {
+      "date": "1998-02-14",
+      "note": null
+    },
+    {
+      "date": "1998-02-21",
+      "note": null
+    },
+    {
+      "date": "1998-02-28",
+      "note": null
+    },
+    {
+      "date": "1998-03-07",
+      "note": null
+    },
+    {
+      "date": "1998-03-14",
+      "note": null
+    },
+    {
+      "date": "1998-03-21",
+      "note": null
+    },
+    {
+      "date": "1998-03-28",
+      "note": "Preempted by TNT\u2019s Turner Classic Movies Weekend"
+    },
+    {
+      "date": "1998-04-04",
+      "note": null
+    },
+    {
+      "date": "1998-04-11",
+      "note": null
+    },
+    {
+      "date": "1998-04-18",
+      "note": null
+    },
+    {
+      "date": "1998-04-25",
+      "note": null
+    },
+    {
+      "date": "1998-05-02",
+      "note": null
+    },
+    {
+      "date": "1998-05-09",
+      "note": null
+    },
+    {
+      "date": "1998-05-16",
+      "note": null
+    },
+    {
+      "date": "1998-05-23",
+      "note": null
+    },
+    {
+      "date": "1998-05-30",
+      "note": null
+    },
+    {
+      "date": "1998-06-06",
+      "note": null
+    },
+    {
+      "date": "1998-06-13",
+      "note": null
+    },
+    {
+      "date": "1998-06-20",
+      "note": null
+    },
+    {
+      "date": "1998-06-27",
+      "note": null
+    },
+    {
+      "date": "1998-07-04",
+      "note": "Joe Bob\u2019s Summer School: Physics"
+    },
+    {
+      "date": "1998-07-11",
+      "note": "Joe Bob\u2019s Summer School: Animal Husbandry"
+    },
+    {
+      "date": "1998-07-18",
+      "note": "Joe Bob\u2019s Summer School: Philosophy"
+    },
+    {
+      "date": "1998-07-25",
+      "note": "Joe Bob\u2019s Summer School: Black Studies"
+    },
+    {
+      "date": "1998-08-01",
+      "note": "Joe Bob\u2019s Summer School: Driver\u2019s Ed"
+    },
+    {
+      "date": "1998-08-08",
+      "note": "Joe Bob\u2019s Summer School: Phys Ed"
+    },
+    {
+      "date": "1998-08-15",
+      "note": "Joe Bob\u2019s Summer School: Sex Ed"
+    },
+    {
+      "date": "1998-08-22",
+      "note": "Joe Bob\u2019s Summer School: R.O.T.C."
+    },
+    {
+      "date": "1998-08-29",
+      "note": "Joe Bob\u2019s Summer School: Acne"
+    },
+    {
+      "date": "1998-09-05",
+      "note": "Joe Bob\u2019s Summer School: Occult Studies"
+    },
+    {
+      "date": "1998-09-12",
+      "note": null
+    },
+    {
+      "date": "1998-09-19",
+      "note": null
+    },
+    {
+      "date": "1998-09-26",
+      "note": null
+    },
+    {
+      "date": "1998-10-03",
+      "note": null
+    },
+    {
+      "date": "1998-10-10",
+      "note": "Preempted by Jackie Chan\u2019s Chan-O-Rama Marathon"
+    },
+    {
+      "date": "1998-10-17",
+      "note": null
+    },
+    {
+      "date": "1998-10-24",
+      "note": null
+    },
+    {
+      "date": "1998-10-31",
+      "note": "Dusk-To-Dawn Friday the 13th Marathon"
+    },
+    {
+      "date": "1998-11-07",
+      "note": null
+    },
+    {
+      "date": "1998-11-14",
+      "note": null
+    },
+    {
+      "date": "1998-11-21",
+      "note": null
+    },
+    {
+      "date": "1998-11-28",
+      "note": null
+    },
+    {
+      "date": "1998-12-05",
+      "note": null
+    },
+    {
+      "date": "1998-12-12",
+      "note": null
+    },
+    {
+      "date": "1998-12-19",
+      "note": "A Very Joe Bob Christmas"
+    },
+    {
+      "date": "1998-12-26",
+      "note": null
+    },
+    {
+      "date": "1999-01-02",
+      "note": null
+    },
+    {
+      "date": "1999-01-09",
+      "note": null
+    },
+    {
+      "date": "1999-01-16",
+      "note": null
+    },
+    {
+      "date": "1999-01-23",
+      "note": null
+    },
+    {
+      "date": "1999-01-30",
+      "note": "Preempted by Super Bowl Weekend (Hosted by Joe Bob)"
+    },
+    {
+      "date": "1999-02-06",
+      "note": null
+    },
+    {
+      "date": "1999-02-13",
+      "note": null
+    },
+    {
+      "date": "1999-02-20",
+      "note": null
+    },
+    {
+      "date": "1999-02-27",
+      "note": null
+    },
+    {
+      "date": "1999-03-06",
+      "note": null
+    },
+    {
+      "date": "1999-03-13",
+      "note": null
+    },
+    {
+      "date": "1999-03-20",
+      "note": null
+    },
+    {
+      "date": "1999-03-27",
+      "note": null
+    },
+    {
+      "date": "1999-04-03",
+      "note": null
+    },
+    {
+      "date": "1999-04-10",
+      "note": null
+    },
+    {
+      "date": "1999-04-17",
+      "note": null
+    },
+    {
+      "date": "1999-04-24",
+      "note": null
+    },
+    {
+      "date": "1999-05-01",
+      "note": null
+    },
+    {
+      "date": "1999-05-08",
+      "note": null
+    },
+    {
+      "date": "1999-05-15",
+      "note": "Preempted due to the\u00a0NBA Playoffs"
+    },
+    {
+      "date": "1999-05-22",
+      "note": null
+    },
+    {
+      "date": "1999-05-29",
+      "note": null
+    },
+    {
+      "date": "1999-06-05",
+      "note": null
+    },
+    {
+      "date": "1999-06-12",
+      "note": null
+    },
+    {
+      "date": "1999-06-19",
+      "note": null
+    },
+    {
+      "date": "1999-06-26",
+      "note": null
+    },
+    {
+      "date": "1999-07-03",
+      "note": null
+    },
+    {
+      "date": "1999-07-10",
+      "note": "Joe Bob\u2019s Summer School: Pre-Med 101"
+    },
+    {
+      "date": "1999-07-17",
+      "note": "Joe Bob\u2019s Summer School: Pop Culture 201"
+    },
+    {
+      "date": "1999-07-24",
+      "note": "Joe Bob\u2019s Summer School: Body Building 304"
+    },
+    {
+      "date": "1999-07-31",
+      "note": "Joe Bob\u2019s Summer School: Applied Aeronautics"
+    },
+    {
+      "date": "1999-08-07",
+      "note": "Joe Bob\u2019s Summer School: Advanced Primate Studies"
+    },
+    {
+      "date": "1999-08-14",
+      "note": "Joe Bob\u2019s Summer School: Cinema Studies 101"
+    },
+    {
+      "date": "1999-08-21",
+      "note": "Joe Bob\u2019s Summer School: UFO Studies 666"
+    },
+    {
+      "date": "1999-08-28",
+      "note": "Joe Bob\u2019s Summer School: Food Science 504"
+    },
+    {
+      "date": "1999-09-04",
+      "note": "Joe Bob\u2019s Summer School: Recreational Geography 207"
+    },
+    {
+      "date": "1999-09-11",
+      "note": "Joe Bob\u2019s Hollywood Saturday Night Segment Rebrand"
+    },
+    {
+      "date": "1999-09-18",
+      "note": null
+    },
+    {
+      "date": "1999-09-25",
+      "note": null
+    },
+    {
+      "date": "1999-10-02",
+      "note": null
+    },
+    {
+      "date": "1999-10-09",
+      "note": "Preempted by Miss Verona\u2019s 30-Year Soap Opera Reunion"
+    },
+    {
+      "date": "1999-10-16",
+      "note": null
+    },
+    {
+      "date": "1999-10-23",
+      "note": null
+    },
+    {
+      "date": "1999-10-30",
+      "note": "The Nair Witch Project Marathon"
+    },
+    {
+      "date": "1999-10-31",
+      "note": "A Special Halloween Joe Bob Briggs Presentation"
+    },
+    {
+      "date": "1999-11-06",
+      "note": null
+    },
+    {
+      "date": "1999-11-13",
+      "note": null
+    },
+    {
+      "date": "1999-11-20",
+      "note": null
+    },
+    {
+      "date": "1999-11-27",
+      "note": null
+    },
+    {
+      "date": "1999-12-04",
+      "note": null
+    },
+    {
+      "date": "1999-12-11",
+      "note": null
+    },
+    {
+      "date": "1999-12-18",
+      "note": null
+    },
+    {
+      "date": "1999-12-25",
+      "note": null
+    },
+    {
+      "date": "2000-01-01",
+      "note": "Preempted by the TNT 2K New Year\u2019s Marathon"
+    },
+    {
+      "date": "2000-01-08",
+      "note": "Preempted by an Encore of The Shawshank Redemption"
+    },
+    {
+      "date": "2000-01-15",
+      "note": "Transition to a Single Movie Per Night (After Midnight)"
+    },
+    {
+      "date": "2000-01-22",
+      "note": null
+    },
+    {
+      "date": "2000-01-29",
+      "note": null
+    },
+    {
+      "date": "2000-02-05",
+      "note": null
+    },
+    {
+      "date": "2000-02-12",
+      "note": null
+    },
+    {
+      "date": "2000-02-19",
+      "note": null
+    },
+    {
+      "date": "2000-02-26",
+      "note": null
+    },
+    {
+      "date": "2000-03-04",
+      "note": null
+    },
+    {
+      "date": "2000-03-11",
+      "note": null
+    },
+    {
+      "date": "2000-03-18",
+      "note": null
+    },
+    {
+      "date": "2000-03-25",
+      "note": null
+    },
+    {
+      "date": "2000-04-01",
+      "note": null
+    },
+    {
+      "date": "2000-04-08",
+      "note": null
+    },
+    {
+      "date": "2000-04-15",
+      "note": null
+    },
+    {
+      "date": "2000-04-22",
+      "note": null
+    },
+    {
+      "date": "2000-04-29",
+      "note": null
+    },
+    {
+      "date": "2000-05-06",
+      "note": null
+    },
+    {
+      "date": "2000-05-13",
+      "note": null
+    },
+    {
+      "date": "2000-05-20",
+      "note": null
+    },
+    {
+      "date": "2000-05-27",
+      "note": "Preempted by the TNT New Classics Weekend Marathon"
+    },
+    {
+      "date": "2000-06-03",
+      "note": null
+    },
+    {
+      "date": "2000-06-10",
+      "note": null
+    },
+    {
+      "date": "2000-06-17",
+      "note": null
+    },
+    {
+      "date": "2000-06-24",
+      "note": null
+    },
+    {
+      "date": "2000-07-01",
+      "note": null
+    },
+    {
+      "date": "2000-07-08",
+      "note": "Joe Bob\u2019s Final MonsterVision Host Segment"
+    },
+    {
+      "date": "2000-07-15",
+      "note": "MonsterVision Returns to Non-Host Format"
+    },
+    {
+      "date": "2000-07-22",
+      "note": null
+    },
+    {
+      "date": "2000-07-29",
+      "note": null
+    },
+    {
+      "date": "2000-08-05",
+      "note": null
+    },
+    {
+      "date": "2000-08-12",
+      "note": null
+    },
+    {
+      "date": "2000-08-19",
+      "note": null
+    },
+    {
+      "date": "2000-08-26",
+      "note": null
+    },
+    {
+      "date": "2000-09-02",
+      "note": null
+    },
+    {
+      "date": "2000-09-09",
+      "note": "Preempted by Stephen King Marathon"
+    },
+    {
+      "date": "2000-09-16",
+      "note": "End of MonsterVision and 100% Weird"
+    }
+  ]
+}
