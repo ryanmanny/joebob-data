@@ -20,7 +20,7 @@ def compile():
     }
 
     with open('joebob.json', 'w') as fp:
-        json.dump(data, fp)
+        json.dump(data, fp, indent=2)
 
 
 if __name__ == '__main__':
