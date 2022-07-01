@@ -31,10 +31,16 @@ def compile_monstervision():
             print(p.prettify())
             continue
 
-        episodes.append({
+        episode = {
             'date': date.isoformat(),
             'note': note,
-        })
+        }
+        episode = {
+            k: v for k, v in episode.items()
+            if v is not None
+        }
+
+        episodes.append(episode)
 
     return episodes
 
